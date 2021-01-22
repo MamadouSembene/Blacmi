@@ -1,0 +1,27 @@
+body {
+  background: #2c2c2c !important;
+  background-attachment: fixed;
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#tmpContent{
+  border: blanchedalmond 2px solid;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-items: center;
+  justify-content: space-around;
+  
+}
+
+#tmp{
+  margin-left: 90px;
+  margin-top: 15px;
+  font-size: 47px;
+}
+#img{
+  width: 115px;
+  margin-right: 55px;
+  font-size: 150px;
+}
